@@ -163,6 +163,10 @@ a {
   color: #7d8589;
 }
 
+.client .row-note {
+  padding-top: 23px;
+}
+
 .client .row-desc {
   margin-top: 23px;
 }
