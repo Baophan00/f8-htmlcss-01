@@ -59,7 +59,7 @@ a {
 .hero-wrap {
   position: relative;
   background-color: #e6f0ff;
-  height: 736px;
+  height: calc(100vh - 83px);
 }
 
 .navbar {
